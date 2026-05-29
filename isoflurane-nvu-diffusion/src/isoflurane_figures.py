@@ -5,7 +5,7 @@ Generates two publication-quality figures:
   1. isoflurane_2d_field.png   — 2D multi-vessel concentration field (dark theme)
   2. isoflurane_sensitivity.png — sensitivity analysis: 4 parameters × 5 values
 
-Author: [Your name]
+Author: Rafid Quadir
 Date  : May 2026
 """
 

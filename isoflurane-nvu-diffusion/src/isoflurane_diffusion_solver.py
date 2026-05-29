@@ -20,8 +20,7 @@ References:
     - Franks NP (2008) Molecular targets underlying general anaesthesia.
       Br J Pharmacol 147:S72-S81.
 
-Author : [Your name]
-Lab    : [Lab name] — Neuroscience, [Institution]
+Author : Rafid Quadir
 Date   : Originally conceived ~2019; implemented May 2026
 """
 

@@ -30,8 +30,8 @@ References:
     - Smrkolj et al. (2025) Biophys J [local anesthetic diffusion model]
     - Balluffi, Allen, Carter. Kinetics of Materials. Wiley 2005.
 
-Author : [Your name]
-Lab    : [Lab name] — Neuroscience, [Institution]
+Author : Rafid Quadir
+
 Date   : Originally conceived ~2019; v0.2 implemented May 2026
 """
 

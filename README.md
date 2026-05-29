@@ -168,14 +168,14 @@ conda install -c conda-forge fenics-dolfinx mpich
 If you use this model, please cite:
 
 ```bibtex
-@article{[your-name]2026isoflurane,
+@articleRafidQuadir2026isoflurane,
   title   = {Concentration-dependent blood-brain barrier permeability in a
              multi-compartment model of volatile anesthetic diffusion in the
              neurovascular unit},
-  author  = {[Your Name]},
-  journal = {bioRxiv},
+  author  = Rafid Quadir,
+  Preprint = Zenodo,
   year    = {2026},
-  doi     = {10.1101/XXXX}
+  doi     = 10.5281/zenodo.20448044
 }
 ```
 

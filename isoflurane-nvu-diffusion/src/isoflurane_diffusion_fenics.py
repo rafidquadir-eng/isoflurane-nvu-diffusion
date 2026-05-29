@@ -17,7 +17,7 @@ Geometry: 2D axisymmetric (r-z plane), or full 2D cross-section.
           Here we use a 1D radial domain [R_v, R_max] for consistency
           with the Python FD solver.
 
-Author : [Your name]
+Author : Rafid Quadir
 Date   : May 2026
 """
 
